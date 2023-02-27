@@ -1,16 +1,7 @@
-# flutter_apps
+# 📱Flutter 공부시작!!
 
-A new Flutter project.
+# 👀 Notion Link
+https://chestnut-sight-8af.notion.site/Flutter-823f7fb56eb64dfe8955df8d664a10a4
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 🎉 Study
+- 1일차 => Android Studio 환경설정 setting 및 오류 잡기 // Dart 언어 시작 =>  Type
