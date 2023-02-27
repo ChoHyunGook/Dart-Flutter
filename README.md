@@ -1,3 +1,5 @@
+![하기싫어귀찮아GIF](https://user-images.githubusercontent.com/97998332/221531871-b0f9d32f-ab81-436f-9d57-7a13e5b662a5.gif)
+
 # 📱Flutter 공부시작!!
 
 # 👀 Notion Link
